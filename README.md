@@ -1,6 +1,6 @@
 ## Groupmaker
 
-Assign students in a class to groups randomly. 
+Create a random list of n integers to assist with creating student groups.
 
 ## Installation
 
